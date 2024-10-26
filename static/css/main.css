@@ -27,3 +27,8 @@ article h2 {
 .text {
     font-size: 5rem;
 }
+
+/* selector por id */
+#text-a1 {
+    color: darkmagenta;
+}
