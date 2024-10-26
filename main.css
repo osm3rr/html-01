@@ -1,0 +1,29 @@
+/* selector por tag */
+h1 {
+    color: blue;
+}
+
+article {
+    color: red;
+}
+
+ul {
+    color: aqua;
+}
+
+p {
+    color: green;
+}
+
+article h2 {
+    color: blueviolet;
+}
+
+/* selector por clases */
+.titulo2 {
+    color: coral;
+}
+
+.text {
+    font-size: 5rem;
+}
